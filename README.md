@@ -27,3 +27,5 @@ https://www.youtube.com/watch?v=R2MI-tpXyS4
 ```
 ![alt text](PartesImpresas.png)
 
+![alt text](imp1.jpg)
+![alt text](imp2.jpg)
